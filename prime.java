@@ -1,6 +1,6 @@
 public class prime {
     public static void main(String[] args) {
-        int num = 29; // Replace with any number to check
+        int num = 50; // Replace with any number to check
         if (isPrime(num)) {
             System.out.println(num + " is a prime number.");
         } else {
